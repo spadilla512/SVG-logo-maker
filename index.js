@@ -33,7 +33,7 @@ function questions() {
                 console.log("Max of only 3 characters");
                 questions();
             } else { storeAnswers
-            storeAnswers("svg.logo", answers);
+            storeAnswers("logo.svg", answers);
             }
         });
 };

@@ -2,7 +2,7 @@
 
 ## Description
 
-
+Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
 
 ## User Story
 
@@ -31,13 +31,27 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 To install jest use 'npm i jest', and for inquirer use 'npm i inquirer@8.2.4' in terminal.
 
-## Usuage
+## Images
 
+### Terminal Prompts
 
+![Alt text](assets/images/Terminal-prompts.png)
+
+### Terminal Test
+
+![Alt text](assets/images/Terminal-test.png)
+
+### SVG Logo Example
+
+![Alt text](assets/images/logo-preview.png)
+
+## Link to Video Walkthrough
+
+**Video:** [Link](https://youtu.be/YB95vRNyzOw)
 
 ## Credits
 
-
+Slack Overview
 
 ## License
 
